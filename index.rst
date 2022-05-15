@@ -9,3 +9,30 @@ NANOME is used with various documentation tools, such as Nextflow. There are var
 
 
 In this tutorial, we will be looking at how to get started with nanome, including installing programs such as nextflow!
+
+Installation
+_____________________
+_____________________
+
+Quickstart - ecoli
+_______________________
+_______________________
+
+Quickstart - human
+_________________________
+__________________________
+
+Quickstart - cloud computing platform
+____________________________________
+___________________________________
+Quickstart - QC analysis
+___________________________
+___________________________
+Helping us debug NANOME
+________________________
+________________________
+
+Manual
+_______________________
+______________________
+
