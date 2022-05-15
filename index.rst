@@ -1,4 +1,4 @@
-NANOME Tutorial: Main Page
+Main Page
 ____________________________
 ___________________________
 NANOME is a tool used to extract information from the Pipeline. It is often used by scientists to gain a better understanding of various illnesses, such as cancer, 
